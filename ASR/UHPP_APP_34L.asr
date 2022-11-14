@@ -1,0 +1,120 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Admin\Desktop\Magadan FIR\Sector\Magadan-East.sct
+SECTORTITLE:Magadan-East.sct
+Airports:UHPH:name
+Airports:UHPH:symbol
+Airports:UHPP:name
+Airports:UHPP:symbol
+ARTCC boundary:UHMM_CTR:
+ARTCC boundary:UHMM_K1_CTR:
+ARTCC high boundary:UHPP_APP:
+ARTCC low boundary:UHPH_TWR:
+ARTCC low boundary:UHPP_APP:
+ARTCC low boundary:UHPP_TWR:
+Fixes:BAKEN:name
+Fixes:BAKEN:symbol
+Fixes:GANKA:name
+Fixes:GANKA:symbol
+Fixes:KUDER:name
+Fixes:KUDER:symbol
+Fixes:KULOD:name
+Fixes:KULOD:symbol
+Fixes:ORVAS:name
+Fixes:ORVAS:symbol
+Fixes:PETIN:name
+Fixes:PETIN:symbol
+Fixes:PIRUT:name
+Fixes:PIRUT:symbol
+Fixes:PP004:name
+Fixes:PP004:symbol
+Fixes:PP005:name
+Fixes:PP005:symbol
+Fixes:PP010:name
+Fixes:PP010:symbol
+Fixes:PP011:name
+Fixes:PP011:symbol
+Fixes:PP015:name
+Fixes:PP015:symbol
+Fixes:PP016:name
+Fixes:PP016:symbol
+Fixes:RINOT:name
+Fixes:RINOT:symbol
+Fixes:SAMIK:name
+Fixes:SAMIK:symbol
+Fixes:SIPVA:name
+Fixes:SIPVA:symbol
+Fixes:TINEN:name
+Fixes:TINEN:symbol
+Fixes:TUPAN:name
+Fixes:TUPAN:symbol
+Free Text:Procedures Points\Al'batros:freetext
+Free Text:Procedures Points\Gazoraspredelitel'naya Stantsiya:freetext
+Free Text:Procedures Points\Kamchatskiy Vystavochnyy Center:freetext
+Free Text:Procedures Points\Koryaks:freetext
+Free Text:Procedures Points\Liniya Elektropitaniya:freetext
+Free Text:Procedures Points\Mayachnyy Mys:freetext
+Free Text:Procedures Points\Pogranichnyy Zhiloy Rayon:freetext
+Free Text:Procedures Points\Reka Avacha:freetext
+Free Text:Procedures Points\Reka papatunka:freetext
+Free Text:Procedures Points\Reka pinachevskaya:freetext
+Free Text:Procedures Points\Stadion:freetext
+Geo:Coastline:
+NDBs:HY:frequency
+NDBs:HY:name
+NDBs:HY:symbol
+NDBs:LW:frequency
+NDBs:LW:name
+NDBs:LW:symbol
+NDBs:MK:frequency
+NDBs:MK:name
+NDBs:MK:symbol
+Regions:WATER:polygon
+Runways:UHPP Yelizovo 34L-16R:centerline
+Runways:UHPP Yelizovo 34L-16R:extended centerline 1
+Runways:UHPP Yelizovo 34L-16R:extended centerline 1 left base
+Runways:UHPP Yelizovo 34L-16R:extended centerline 1 left ticks
+Runways:UHPP Yelizovo 34L-16R:extended centerline 1 left vectoring
+Runways:UHPP Yelizovo 34L-16R:extended centerline 1 right base
+Runways:UHPP Yelizovo 34L-16R:extended centerline 1 right ticks
+Runways:UHPP Yelizovo 34L-16R:extended centerline 1 right vectoring
+Runways:UHPP Yelizovo 34L-16R:extended centerline 2
+Runways:UHPP Yelizovo 34L-16R:extended centerline 2 left base
+Runways:UHPP Yelizovo 34L-16R:extended centerline 2 left ticks
+Runways:UHPP Yelizovo 34L-16R:extended centerline 2 left vectoring
+Runways:UHPP Yelizovo 34L-16R:extended centerline 2 right base
+Runways:UHPP Yelizovo 34L-16R:extended centerline 2 right ticks
+Runways:UHPP Yelizovo 34L-16R:extended centerline 2 right vectoring
+Runways:UHPP Yelizovo 34L-16R:name
+Stars:UHPP HOLD HY (MHA67 MAX110):
+Stars:UHPP HOLD LW (MHA140):
+Stars:UHPP HOLD PP005 (MHA65 MAX110):
+Stars:UHPP HOLD PP011 (MHA70 MAX130):
+Stars:UHPP STAR 34L BAKEN5N:
+Stars:UHPP STAR 34L GANKA5N:
+Stars:UHPP STAR 34L KULOD5N:
+Stars:UHPP STAR 34L MK5N:
+Stars:UHPP STAR 34L ORVAS5N:
+Stars:UHPP STAR 34L PIRUT5N:
+Stars:UHPP STAR 34L RINOT5N:
+Stars:UHPP STAR 34L SAMIK5N:
+Stars:UHPP STAR 34L SIPVA5N:
+Stars:UHPP STAR 34L TUPAN5N:
+VORs:PKK:frequency
+VORs:PKK:name
+VORs:PKK:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:4000
+ABOVE:28000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:51.589470:153.421286:54.405894:163.796946

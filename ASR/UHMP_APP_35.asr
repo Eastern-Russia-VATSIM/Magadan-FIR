@@ -1,0 +1,91 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Admin\Desktop\Magadan FIR\Sector\Magadan-East.sct
+SECTORTITLE:Magadan-East.sct
+Airports:UHMP:name
+Airports:UHMP:symbol
+ARTCC low boundary:UHMP_R_APP:
+Fixes:ARBOM:name
+Fixes:ARBOM:symbol
+Fixes:BALIL:name
+Fixes:BALIL:symbol
+Fixes:DINOD:name
+Fixes:DINOD:symbol
+Fixes:GARIO:name
+Fixes:GARIO:symbol
+Fixes:MAKUB:name
+Fixes:MAKUB:symbol
+Fixes:MP003:name
+Fixes:MP003:symbol
+Fixes:MP004:name
+Fixes:MP004:symbol
+Fixes:MP014:name
+Fixes:MP014:symbol
+Fixes:MP015:name
+Fixes:MP015:symbol
+Fixes:MP016:name
+Fixes:MP016:symbol
+Fixes:MP017:name
+Fixes:MP017:symbol
+Fixes:MP025:name
+Fixes:MP025:symbol
+Fixes:NEKON:name
+Fixes:NEKON:symbol
+Fixes:OLEBI:name
+Fixes:OLEBI:symbol
+Fixes:PUANT:name
+Fixes:PUANT:symbol
+Fixes:RESBU:name
+Fixes:RESBU:symbol
+Fixes:RINAU:name
+Fixes:RINAU:symbol
+Fixes:SEDUI:name
+Fixes:SEDUI:symbol
+Fixes:SEMNU:name
+Fixes:SEMNU:symbol
+Fixes:ZLOTA:name
+Fixes:ZLOTA:symbol
+Geo:Coastline:
+Regions:WATER:polygon
+Runways:UHMP Pevek 17-35:centerline
+Runways:UHMP Pevek 17-35:extended centerline 1
+Runways:UHMP Pevek 17-35:extended centerline 1 left base
+Runways:UHMP Pevek 17-35:extended centerline 1 left ticks
+Runways:UHMP Pevek 17-35:extended centerline 1 left vectoring
+Runways:UHMP Pevek 17-35:extended centerline 1 right base
+Runways:UHMP Pevek 17-35:extended centerline 1 right ticks
+Runways:UHMP Pevek 17-35:extended centerline 1 right vectoring
+Runways:UHMP Pevek 17-35:extended centerline 2
+Runways:UHMP Pevek 17-35:extended centerline 2 left base
+Runways:UHMP Pevek 17-35:extended centerline 2 left ticks
+Runways:UHMP Pevek 17-35:extended centerline 2 left vectoring
+Runways:UHMP Pevek 17-35:extended centerline 2 right base
+Runways:UHMP Pevek 17-35:extended centerline 2 right ticks
+Runways:UHMP Pevek 17-35:extended centerline 2 right vectoring
+Runways:UHMP Pevek 17-35:name
+Stars:UHMP STAR 35 ARBOM1J:
+Stars:UHMP STAR 35 BALIL1J:
+Stars:UHMP STAR 35 DINOD1J:
+Stars:UHMP STAR 35 MAKUB1J:
+Stars:UHMP STAR 35 NEKON1J:
+Stars:UHMP STAR 35 OLEBI1J:
+Stars:UHMP STAR 35 PUANT1H:
+Stars:UHMP STAR 35 RESBU1J:
+VORs:PWK:frequency
+VORs:PWK:name
+VORs:PWK:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:68.972927:167.335073:70.421110:172.670156

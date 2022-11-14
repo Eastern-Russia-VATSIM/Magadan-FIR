@@ -1,0 +1,101 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Admin\Desktop\Magadan FIR\Sector\Magadan-East.sct
+SECTORTITLE:Magadan-East.sct
+ARTCC low boundary:UHPP_TWR:
+Free Text:UHPP\1:freetext
+Free Text:UHPP\10:freetext
+Free Text:UHPP\11:freetext
+Free Text:UHPP\12:freetext
+Free Text:UHPP\13:freetext
+Free Text:UHPP\14:freetext
+Free Text:UHPP\15:freetext
+Free Text:UHPP\16:freetext
+Free Text:UHPP\17:freetext
+Free Text:UHPP\18:freetext
+Free Text:UHPP\19:freetext
+Free Text:UHPP\1A:freetext
+Free Text:UHPP\1B:freetext
+Free Text:UHPP\1C:freetext
+Free Text:UHPP\2:freetext
+Free Text:UHPP\20:freetext
+Free Text:UHPP\21:freetext
+Free Text:UHPP\22:freetext
+Free Text:UHPP\23:freetext
+Free Text:UHPP\24:freetext
+Free Text:UHPP\25:freetext
+Free Text:UHPP\26:freetext
+Free Text:UHPP\27:freetext
+Free Text:UHPP\28:freetext
+Free Text:UHPP\29:freetext
+Free Text:UHPP\3:freetext
+Free Text:UHPP\3A:freetext
+Free Text:UHPP\3B:freetext
+Free Text:UHPP\4:freetext
+Free Text:UHPP\5:freetext
+Free Text:UHPP\6:freetext
+Free Text:UHPP\7:freetext
+Free Text:UHPP\8:freetext
+Free Text:UHPP\9:freetext
+Free Text:UHPP\A:freetext
+Free Text:UHPP\B:freetext
+Free Text:UHPP\C:freetext
+Free Text:UHPP\D:freetext
+Free Text:UHPP\D:freetext
+Free Text:UHPP\F:freetext
+Free Text:UHPP\G:freetext
+Free Text:UHPP\H:freetext
+Free Text:UHPP\J:freetext
+Free Text:UHPP\L:freetext
+Free Text:UHPP\M:freetext
+Free Text:UHPP_TORA\TORA 16R - 2500m (8202'):freetext
+Free Text:UHPP_TORA\TORA 34L - 2700m (8858'):freetext
+Geo:UHPP:
+Regions:K1:polygon
+Regions:K2:polygon
+Regions:N:polygon
+Regions:N1:polygon
+Regions:N2:polygon
+Regions:O:polygon
+Regions:S:polygon
+Regions:UHPP:polygon
+Regions:UHPP_CLOSED_RUNWAY-34R-16L:polygon
+Regions:UHPP_CLOSED_TAXIWAY_A:polygon
+Regions:UHPP_CLOSED_TAXIWAY_D-2:polygon
+Regions:UHPP_CLOSED_TAXIWAY_F:polygon
+Regions:UHPP_CLOSED_TAXIWAY_J:polygon
+Runways:UHPP Yelizovo 34L-16R:centerline
+Runways:UHPP Yelizovo 34L-16R:extended centerline 1
+Runways:UHPP Yelizovo 34L-16R:extended centerline 1 left base
+Runways:UHPP Yelizovo 34L-16R:extended centerline 1 left ticks
+Runways:UHPP Yelizovo 34L-16R:extended centerline 1 left vectoring
+Runways:UHPP Yelizovo 34L-16R:extended centerline 1 right base
+Runways:UHPP Yelizovo 34L-16R:extended centerline 1 right ticks
+Runways:UHPP Yelizovo 34L-16R:extended centerline 1 right vectoring
+Runways:UHPP Yelizovo 34L-16R:extended centerline 2
+Runways:UHPP Yelizovo 34L-16R:extended centerline 2 left base
+Runways:UHPP Yelizovo 34L-16R:extended centerline 2 left ticks
+Runways:UHPP Yelizovo 34L-16R:extended centerline 2 left vectoring
+Runways:UHPP Yelizovo 34L-16R:extended centerline 2 right base
+Runways:UHPP Yelizovo 34L-16R:extended centerline 2 right ticks
+Runways:UHPP Yelizovo 34L-16R:extended centerline 2 right vectoring
+Runways:UHPP Yelizovo 34L-16R:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:53.151368:158.381611:53.187006:158.512901
+PLUGIN:Ground Radar plugin:AirportElevation:243
+PLUGIN:Ground Radar plugin:AirportRadius:17.0
+PLUGIN:Ground Radar plugin:GroundMode:UHPP
+PLUGIN:TopSky plugin:NoDraw:1

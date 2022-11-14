@@ -1,0 +1,68 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Admin\Desktop\Magadan FIR\Sector\Magadan-East.sct
+SECTORTITLE:Magadan-East.sct
+Airports:UHMA:name
+Airports:UHMA:symbol
+Free Text:UHMA\1:freetext
+Free Text:UHMA\10:freetext
+Free Text:UHMA\11:freetext
+Free Text:UHMA\12:freetext
+Free Text:UHMA\13:freetext
+Free Text:UHMA\14:freetext
+Free Text:UHMA\15:freetext
+Free Text:UHMA\16:freetext
+Free Text:UHMA\17:freetext
+Free Text:UHMA\18:freetext
+Free Text:UHMA\19:freetext
+Free Text:UHMA\2:freetext
+Free Text:UHMA\20:freetext
+Free Text:UHMA\21:freetext
+Free Text:UHMA\22:freetext
+Free Text:UHMA\3:freetext
+Free Text:UHMA\4:freetext
+Free Text:UHMA\5:freetext
+Free Text:UHMA\6:freetext
+Free Text:UHMA\7:freetext
+Free Text:UHMA\8:freetext
+Free Text:UHMA\9:freetext
+Geo:UHMA:
+Regions:K1:polygon
+Regions:K2:polygon
+Regions:N:polygon
+Regions:N1:polygon
+Regions:N2:polygon
+Regions:O:polygon
+Regions:S:polygon
+Regions:UHMA:polygon
+Runways:UHMA Anadyr 01-19:centerline
+Runways:UHMA Anadyr 01-19:extended centerline 1
+Runways:UHMA Anadyr 01-19:extended centerline 1 left base
+Runways:UHMA Anadyr 01-19:extended centerline 1 left ticks
+Runways:UHMA Anadyr 01-19:extended centerline 1 left vectoring
+Runways:UHMA Anadyr 01-19:extended centerline 1 right base
+Runways:UHMA Anadyr 01-19:extended centerline 1 right ticks
+Runways:UHMA Anadyr 01-19:extended centerline 1 right vectoring
+Runways:UHMA Anadyr 01-19:extended centerline 2
+Runways:UHMA Anadyr 01-19:extended centerline 2 left base
+Runways:UHMA Anadyr 01-19:extended centerline 2 left ticks
+Runways:UHMA Anadyr 01-19:extended centerline 2 left vectoring
+Runways:UHMA Anadyr 01-19:extended centerline 2 right base
+Runways:UHMA Anadyr 01-19:extended centerline 2 right ticks
+Runways:UHMA Anadyr 01-19:extended centerline 2 right vectoring
+Runways:UHMA Anadyr 01-19:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:64.702891:177.640228:64.757140:177.840081

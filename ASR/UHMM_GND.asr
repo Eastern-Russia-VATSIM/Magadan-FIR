@@ -1,0 +1,69 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Admin\Desktop\Magadan FIR\Sector\Magadan-East.sct
+SECTORTITLE:Magadan-East.sct
+Airports:UHMM:name
+Airports:UHMM:symbol
+ARTCC low boundary:UHMM_TWR:
+Free Text:UHMM\17:freetext
+Free Text:UHMM\18:freetext
+Free Text:UHMM\19:freetext
+Free Text:UHMM\22:freetext
+Free Text:UHMM\23:freetext
+Free Text:UHMM\24:freetext
+Free Text:UHMM\25:freetext
+Free Text:UHMM\26:freetext
+Free Text:UHMM\27:freetext
+Free Text:UHMM\28:freetext
+Free Text:UHMM\29:freetext
+Free Text:UHMM\30:freetext
+Free Text:UHMM\31:freetext
+Free Text:UHMM\32:freetext
+Free Text:UHMM\33:freetext
+Free Text:UHMM\34:freetext
+Free Text:UHMM\35:freetext
+Free Text:UHMM\39:freetext
+Geo:UHMM:
+Regions:K1:polygon
+Regions:K2:polygon
+Regions:N:polygon
+Regions:N1:polygon
+Regions:N2:polygon
+Regions:O:polygon
+Regions:S:polygon
+Regions:UHMM:polygon
+Runways:UHMM Sokol 10-28:centerline
+Runways:UHMM Sokol 10-28:extended centerline 1
+Runways:UHMM Sokol 10-28:extended centerline 1 left base
+Runways:UHMM Sokol 10-28:extended centerline 1 left ticks
+Runways:UHMM Sokol 10-28:extended centerline 1 left vectoring
+Runways:UHMM Sokol 10-28:extended centerline 1 right base
+Runways:UHMM Sokol 10-28:extended centerline 1 right ticks
+Runways:UHMM Sokol 10-28:extended centerline 1 right vectoring
+Runways:UHMM Sokol 10-28:extended centerline 2
+Runways:UHMM Sokol 10-28:extended centerline 2 left base
+Runways:UHMM Sokol 10-28:extended centerline 2 left ticks
+Runways:UHMM Sokol 10-28:extended centerline 2 left vectoring
+Runways:UHMM Sokol 10-28:extended centerline 2 right base
+Runways:UHMM Sokol 10-28:extended centerline 2 right ticks
+Runways:UHMM Sokol 10-28:extended centerline 2 right vectoring
+Runways:UHMM Sokol 10-28:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:59.902163:150.681760:59.924064:150.762443
+PLUGIN:Ground Radar plugin:AirportElevation:574
+PLUGIN:Ground Radar plugin:AirportRadius:17.0
+PLUGIN:Ground Radar plugin:GroundMode:UHMM
+PLUGIN:TopSky plugin:NoDraw:1

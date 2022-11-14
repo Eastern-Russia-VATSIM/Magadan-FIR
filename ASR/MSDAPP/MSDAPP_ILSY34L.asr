@@ -1,0 +1,75 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Admin\Desktop\UHMM Fir V1.0\sct\Magadan-East V1.0.sct
+SECTORTITLE:Magadan-East V1.0.sct
+ARTCC boundary:UHMM FIR:
+ARTCC high boundary:UHMA_APP:
+ARTCC high boundary:UHMM_APP:
+ARTCC high boundary:UHPP_APP:
+ARTCC low boundary:UHPP_APP:
+ARTCC low boundary:UHPP_TWR:
+Fixes:BAKEN:name
+Fixes:BAKEN:symbol
+Fixes:GANKA:name
+Fixes:GANKA:symbol
+Fixes:KUDER:name
+Fixes:KUDER:symbol
+Fixes:KULOD:name
+Fixes:KULOD:symbol
+Fixes:ORVAS:name
+Fixes:ORVAS:symbol
+Fixes:PIRUT:name
+Fixes:PIRUT:symbol
+Fixes:RINOT:name
+Fixes:RINOT:symbol
+Fixes:SAMIK:name
+Fixes:SAMIK:symbol
+Fixes:SIPVA:name
+Fixes:SIPVA:symbol
+Fixes:TINEN:name
+Fixes:TINEN:symbol
+Fixes:TUPAN:name
+Fixes:TUPAN:symbol
+Geo:Coast:
+NDBs:HY:frequency
+NDBs:HY:name
+NDBs:HY:symbol
+NDBs:MK:frequency
+NDBs:MK:name
+NDBs:MK:symbol
+NDBs:W:frequency
+NDBs:W:name
+NDBs:W:symbol
+Runways:UHPP Yelizovo 34L-16R:centerline
+Runways:UHPP Yelizovo 34L-16R:extended centerline 1
+Runways:UHPP Yelizovo 34L-16R:extended centerline 1 left base
+Runways:UHPP Yelizovo 34L-16R:extended centerline 1 left ticks
+Runways:UHPP Yelizovo 34L-16R:extended centerline 1 left vectoring
+Runways:UHPP Yelizovo 34L-16R:extended centerline 1 right base
+Runways:UHPP Yelizovo 34L-16R:extended centerline 1 right ticks
+Runways:UHPP Yelizovo 34L-16R:extended centerline 1 right vectoring
+Runways:UHPP Yelizovo 34L-16R:extended centerline 2
+Runways:UHPP Yelizovo 34L-16R:extended centerline 2 left base
+Runways:UHPP Yelizovo 34L-16R:extended centerline 2 left ticks
+Runways:UHPP Yelizovo 34L-16R:extended centerline 2 left vectoring
+Runways:UHPP Yelizovo 34L-16R:extended centerline 2 right base
+Runways:UHPP Yelizovo 34L-16R:extended centerline 2 right ticks
+Runways:UHPP Yelizovo 34L-16R:extended centerline 2 right vectoring
+Runways:UHPP Yelizovo 34L-16R:name
+Stars:UHPP HOLD HY (MHA67 MAX110):
+Stars:UHPP_MSDAPP_ILSY34L:
+SHOWC:1
+SHOWSB:1
+BELOW:4000
+ABOVE:28000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:52.855406:157.484462:53.446053:159.660396

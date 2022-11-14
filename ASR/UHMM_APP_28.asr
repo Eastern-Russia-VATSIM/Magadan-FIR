@@ -1,0 +1,101 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Admin\Desktop\Magadan FIR\Sector\Magadan-East.sct
+SECTORTITLE:Magadan-East.sct
+ARTCC high boundary:UHMM_APP:
+ARTCC low boundary:UHMM_TWR:
+Fixes:BANOT:name
+Fixes:BANOT:symbol
+Fixes:INDEM:name
+Fixes:INDEM:symbol
+Fixes:KUKIR:name
+Fixes:KUKIR:symbol
+Fixes:LANAR:name
+Fixes:LANAR:symbol
+Fixes:MEBAR:name
+Fixes:MEBAR:symbol
+Fixes:MM009:name
+Fixes:MM009:symbol
+Fixes:MM010:name
+Fixes:MM010:symbol
+Fixes:MM011:name
+Fixes:MM011:symbol
+Fixes:MM012:name
+Fixes:MM012:symbol
+Fixes:MM013:name
+Fixes:MM013:symbol
+Fixes:MM014:name
+Fixes:MM014:symbol
+Fixes:MM030:name
+Fixes:MM030:symbol
+Fixes:MM031:name
+Fixes:MM031:symbol
+Fixes:MM035:name
+Fixes:MM035:symbol
+Fixes:ORTIG:name
+Fixes:ORTIG:symbol
+Fixes:OSKET:name
+Fixes:OSKET:symbol
+Fixes:RIMAL:name
+Fixes:RIMAL:symbol
+Fixes:SOMKA:name
+Fixes:SOMKA:symbol
+Fixes:TERKI:name
+Fixes:TERKI:symbol
+Fixes:TITAL:name
+Fixes:TITAL:symbol
+Geo:Coastline:
+NDBs:F:frequency
+NDBs:F:name
+NDBs:F:symbol
+NDBs:FK:frequency
+NDBs:FK:name
+NDBs:FK:symbol
+NDBs:WA:frequency
+NDBs:WA:name
+NDBs:WA:symbol
+Regions:WATER:polygon
+Runways:UHMM Sokol 10-28:centerline
+Runways:UHMM Sokol 10-28:extended centerline 1
+Runways:UHMM Sokol 10-28:extended centerline 1 left base
+Runways:UHMM Sokol 10-28:extended centerline 1 left ticks
+Runways:UHMM Sokol 10-28:extended centerline 1 left vectoring
+Runways:UHMM Sokol 10-28:extended centerline 1 right base
+Runways:UHMM Sokol 10-28:extended centerline 1 right ticks
+Runways:UHMM Sokol 10-28:extended centerline 1 right vectoring
+Runways:UHMM Sokol 10-28:extended centerline 2
+Runways:UHMM Sokol 10-28:extended centerline 2 left base
+Runways:UHMM Sokol 10-28:extended centerline 2 left ticks
+Runways:UHMM Sokol 10-28:extended centerline 2 left vectoring
+Runways:UHMM Sokol 10-28:extended centerline 2 right base
+Runways:UHMM Sokol 10-28:extended centerline 2 right ticks
+Runways:UHMM Sokol 10-28:extended centerline 2 right vectoring
+Runways:UHMM Sokol 10-28:name
+Stars:UHMM HOLD MM013 (MHA70 MAX110):
+Stars:UHMM HOLD WA (MHA70 MAX100):
+Stars:UHMM STAR 28 BANOT5K:
+Stars:UHMM STAR 28 INDEM5K:
+Stars:UHMM STAR 28 KUKIR5K:
+Stars:UHMM STAR 28 LANAR5K:
+Stars:UHMM STAR 28 MEBAR5K:
+Stars:UHMM STAR 28 ORTIG5K:
+Stars:UHMM STAR 28 OSKET5K:
+Stars:UHMM STAR 28 RIMAL5K:
+Stars:UHMM STAR 28 SOMKA5K:
+Stars:UHMM STAR 28 TERKI5K:
+Stars:UHMM STAR 28 TITAL5K:
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:20000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:59.213891:148.035449:60.655918:153.347851
