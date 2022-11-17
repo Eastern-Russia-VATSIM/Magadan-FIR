@@ -25,6 +25,7 @@ UHMP_R_APP:Pevek Radar:124.200:PEA:A:UHMP:APP:-:-:6570:6577
 UHMP_ATIS:Pevek Atis:126.600:PEAT:X:UHMP:ATIS:-:-:-:-
 ;Other
 ANC_03_CTR:Ancorage Center:133.300:ANC:C:ANC:CTR:-:-:-:-
+RJTG_FSS:Fukuoka Radio:126.700:FR:C:RJTG:CTR:-:-:-:-
 ULLL_CTR:Petersburg Control:135.600:PC:C:ULLL:CTR:-:-:-:-
 UHHH_CTR:Khabarovsk Control:124.500:KC:C:UHHH:CTR:-:-:-:-
 UHHH_2_CTR:Khabarovsk Control:129.400:KC2:C:UHHH:CTR:-:-:-:-
