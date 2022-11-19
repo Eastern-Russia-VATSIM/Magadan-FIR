@@ -14,17 +14,17 @@ TeamSpeakVccs	Ts3DialogTop	239
 TeamSpeakVccs	Ts3DialogRight	1870
 TeamSpeakVccs	Ts3DialogBottom	833
 LastSession	atis_letter	75
-Settings	SettingsfileSIL	\Settings\Alpha.txt
-Settings	SettingsfileSEL	\Settings\Alpha.txt
-Settings	SettingsfileDEP	\Settings\Alpha.txt
-Settings	SettingsfileARR	\Settings\Alpha.txt
-Settings	SettingsfileSYMBOLOGY	\Settings\symbology.txt
-Settings	SettingsfileVOICE	\Settings\Alpha.txt
-Settings	SettingsfilePROFILE	\Settings\Alpha.txt
-Settings	SettingsfileTAGS	\Settings\Alpha.txt
-Settings	SettingsfilePLUGINS	\Settings\Alpha.txt
-Settings	Settingsfile	\Settings\Alpha.txt
-Settings	SettingsfileVCCS	\Settings\Alpha.txt
+Settings	SettingsfileSIL	\Settings\Alpha-3.txt
+Settings	SettingsfileSEL	\Settings\Alpha-3.txt
+Settings	SettingsfileDEP	\Settings\Alpha-3.txt
+Settings	SettingsfileARR	\Settings\Alpha-3.txt
+Settings	SettingsfileSYMBOLOGY	\Settings\Alpha-3.txt
+Settings	SettingsfileVOICE	\Settings\Alpha-3.txt
+Settings	SettingsfilePROFILE	\Settings\Alpha-3.txt
+Settings	SettingsfileTAGS	\Settings\Alpha-3.txt
+Settings	SettingsfilePLUGINS	\Settings\Alpha-3.txt
+Settings	Settingsfile	\Settings\Alpha-3.txt
+Settings	SettingsfileVCCS	\Settings\Alpha-3.txt
 Settings	airlines	\NavData\ICAO_Airlines.txt
 Settings	airports	\NavData\ICAO_Airports.txt
 Settings	aircraft	\NavData\ICAO_Aircraft.txt
@@ -59,27 +59,22 @@ LastSession	simdatapublish	0
 Plugins	Plugin0Display1	Standard ES radar screen
 Plugins	Plugin1	\Plugins\vTools\vTools.dll
 Plugins	Plugin1Display0	vTools
-RecentFiles	Recent6	\ASR\UHPP_APP_34L.asr
-RecentFiles	Recent8	\ASR\UHPP_GND.asr
-RecentFiles	Recent9	\ASR\UHMP_APP_35.asr
-RecentFiles	Recent10	\ASR\UHMP_APP_17.asr
-RecentFiles	Recent11	\ASR\UHMP_APP.asr
+RecentFiles	Recent6	\ASR\UHMM_CTR.asr
+RecentFiles	Recent8	\ASR\UHMM_APP_10.asr
+RecentFiles	Recent9	\ASR\UHMM_GND.asr
 Plugins	Plugin2	\Plugins\Top Sky\TopSky.dll
 Plugins	Plugin2Display0	Standard ES radar screen
 TeamSpeakVccs	Ts3NickName	Your Name
 TeamSpeakVccs	Ts3G2APtt	2686976
-LastSession	atis2	Petropavlovsk-Ground | Петропавловск-Руление
-LastSession	atis3	Atis on 126.800 | Атис на 126.800
 Sounds	OutputDevice	
-LastSession	atis4	Magadan FIR discord - discord.gg/dYHR9UpCtq
 Settings	airportcoords	\NavData\icao.txt
-Settings	SettingsfileFP	\Settings\Alpha.txt
-Settings	SettingsfileCONFLICT	\Settings\Alpha.txt
-Settings	SettingsfilePILOTING	\Settings\Alpha.txt
-Settings	SettingsfileORIGPLANE	\Settings\Alpha.txt
-Settings	SettingsfileSTUP	\Settings\Alpha.txt
-Settings	SettingsfileTAXIOUT	\Settings\Alpha.txt
-Settings	SettingsfileTAKEOFF	\Settings\Alpha.txt
-Settings	SettingsfileADCS	\Settings\Alpha.txt
-Settings	SettingsfileTAXIIN	\Settings\Alpha.txt
-Settings	SettingsfileSCREEN	\Settings\Alpha.txt
+Settings	SettingsfileFP	\Settings\Alpha-3.txt
+Settings	SettingsfileCONFLICT	\Settings\Alpha-3.txt
+Settings	SettingsfilePILOTING	\Settings\Alpha-3.txt
+Settings	SettingsfileORIGPLANE	\Settings\Alpha-3.txt
+Settings	SettingsfileSTUP	\Settings\Alpha-3.txt
+Settings	SettingsfileTAXIOUT	\Settings\Alpha-3.txt
+Settings	SettingsfileTAKEOFF	\Settings\Alpha-3.txt
+Settings	SettingsfileADCS	\Settings\Alpha-3.txt
+Settings	SettingsfileTAXIIN	\Settings\Alpha-3.txt
+Settings	SettingsfileSCREEN	\Settings\Alpha-3.txt
