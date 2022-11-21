@@ -198,8 +198,8 @@ Low airways:line:6447714:3.5:0:1:7
 Low airways:name:6579300:0.5:0:0:8
 High airways:line:8553090:3.5:0:1:7
 High airways:name:2512998:3.4:0:0:8
-Fixes:symbol:6447714:0.5:0:0:7
-Fixes:name:6579300:4.0:0:0:2
+Fixes:symbol:6447714:0.6:0:0:7
+Fixes:name:6579300:3.5:0:0:2
 Sids:line:6579300:3.0:1:0:7
 Stars:line:3618615:4.0:0:1:7
 ARTCC high boundary:line:16512:3.0:0:3:7
@@ -753,25 +753,25 @@ TAGITEM:90::0:0:41:0::0:1:::1
 TAGITEM:23::0:0:0:0:TopSky plugin:0:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:26::0:0:0:0:TopSky plugin:0:1:::1
-TAGITEM:22::1:1:0:0:TopSky plugin:0:1:::4
-TAGITEM:15::0:1:0:0::0:1:::4
+TAGITEM:22::1:1:6:8:TopSky plugin:0:1:TopSky plugin::4
+TAGITEM:15::0:1:20:0::0:1:::4
 TAGITEM:11::0:0:32:0::0:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:15::0:1:0:0:TopSky plugin:0:1:::4
+TAGITEM:15::0:1:99:0:TopSky plugin:0:1:TopSky plugin::4
 TAGITEM:67::0:0:0:0:TopSky plugin:3:1:::4
-TAGITEM:43::0:0:12:0:TopSky plugin:4:1:TopSky plugin::4
+TAGITEM:43::0:0:12:11:TopSky plugin:4:1:TopSky plugin::4
 TAGITEM:40::0:1:0:0:TopSky plugin:0:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:120::0:0:59:0:TopSky plugin:0:1:TopSky plugin::4
 TAGITEM:44::0:1:22:0:TopSky plugin:0:1:::4
 TAGITEM:53::0:1:0:0::0:1:::4
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:54::0:0:0:0:TopSky plugin:0:1:::4
-TAGITEM:47::0:1:0:0:TopSky plugin:0:1:::4
-TAGITEM:56::0:1:0:0:TopSky plugin:0:1:::4
+TAGITEM:54::0:0:14:0:TopSky plugin:0:1:TopSky plugin::4
+TAGITEM:47::0:1:15:0:TopSky plugin:0:1:TopSky plugin::4
+TAGITEM:56::0:1:16:0:TopSky plugin:0:1:TopSky plugin::4
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:70::0:0:0:0:TopSky plugin:0:1:::4
-TAGITEM:79::0:1:1:16:TopSky plugin:0:1:::4
+TAGITEM:79::0:1:1001:7:TopSky plugin:0:1:TopSky plugin::4
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:66::0:1:29:0::0:1:::1
 TAGTYPE:3:1:0
@@ -787,11 +787,10 @@ TAGITEM:4::0:0:0:1::0:1:::1
 TAGITEM:3::0:0:0:0::0:1:::1
 TAGTYPE:5:1:0
 TAGITEM:90::0:0:41:0::0:1:::1
-TAGITEM:9::1:1:0:0::0:1:::0
+TAGITEM:2::1:1:0:0::0:1:::0
+TAGITEM:25::0:0:0:0::0:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:4::0:0:0:1::0:1:::1
-TAGITEM:3::0:0:0:0::0:1:::1
-TAGITEM:17::0:1:7:0::0:1:::1
+TAGITEM:4::0:0:0:0::0:1:::1
 TAGTYPE:6:1:0
 TAGITEM:90::0:0:41:0::0:1:::1
 TAGITEM:9::1:1:0:0::0:1:::0
@@ -898,30 +897,8 @@ TAGITEM:24::0:1:13:0::0:1:::1
 TAGITEM:0::0:0:0:0::0:1:::1
 TAGITEM:25::0:0:14:0::0:1:::1
 TAGITEM:66::0:1:29:0::0:1:::1
-TAGTYPE:18:5:1
-TAGITEM:90::0:0:41:0::0:1:::1
-TAGITEM:21::0:1:0:0::0:1:::1
-TAGITEM:42::0:0:0:0::0:1:::1
-TAGITEM:65::0:1:25:0::0:1:::1
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:9::1:0:0:0::0:1:::0
-TAGITEM:26::0:1:0:0::0:1:::1
-TAGITEM:16::0:1:0:0::0:1:::1
-TAGITEM:76::0:0:0:0::0:1:::1
-TAGITEM:11::0:0:32:0::0:1:::1
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:4::0:0:0:0::0:1:::1
-TAGITEM:3::0:0:0:0::0:1:::1
-TAGITEM:28::0:1:0:0::0:1:::1
-TAGITEM:13::0:1:0:0::0:1:::1
-TAGITEM:30::0:1:0:0::0:1:::1
-TAGITEM:17::0:1:0:0::0:1:::1
-TAGITEM:0::0:0:0:0::0:1:::1
-TAGITEM:32::0:0:0:0::0:1:::1
-TAGITEM:31::0:1:0:0::0:1:::1
-TAGITEM:33::0:0:0:0::0:1:::1
-TAGITEM:34::0:1:0:0::0:1:::1
-TAGITEM:19::0:1:0:0::0:1:::1
+TAGTYPE:18:0:0
+TAGITEM:22::1:0:0:0:TopSky plugin:0:1:::1
 TAGTYPE:19:5:1
 TAGITEM:90::0:0:41:0::0:1:::1
 TAGITEM:21::0:1:0:0::0:1:::1
@@ -994,7 +971,7 @@ END
 SEL
 m_Visible:1
 m_X:0
-m_Y:109
+m_Y:122
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:2
@@ -1050,19 +1027,6 @@ m_OrderingColumn:1
 m_HeaderOnly:0
 m_Column:C/S:7:0:9:8:0:1::::0:0.0
 m_Column:TXT:6:1:19:29:0:1::::1:0.0
-END
-FP
-m_Visible:0
-m_X:188
-m_Y:317
-m_LineNumber:0
-m_Resizable:1
-m_OrderingColumn:1
-m_HeaderOnly:0
-m_Column:C/S:7:0:9:0:0:1::::0:0.0
-m_Column:ADEP:5:1:61:0:0:1::::1:0.0
-m_Column:ADES:5:1:17:7:0:1::::1:0.0
-m_Column:STS:6:1:82:34:34:1::::1:0.0
 END
 CONFLICT
 m_Visible:0
