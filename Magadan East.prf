@@ -1,19 +1,19 @@
 Settings	sector	\Sector\Magadan-East.sct
-LastSession	connecttype	0
-LastSession	facility	3
-LastSession	rating	1
-LastSession	server	GERMANY
+LastSession	connecttype	2
+LastSession	facility	5
+LastSession	rating	3
+LastSession	server	SweatBox
 LastSession	tovatsim	1
-LastSession	range	20
+LastSession	range	150
 LastSession	proxyserver	localhost
 LastSession	simNavDatapublish	0
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
-TeamSpeakVccs	Ts3DialogLeft	722
-TeamSpeakVccs	Ts3DialogTop	239
-TeamSpeakVccs	Ts3DialogRight	1870
-TeamSpeakVccs	Ts3DialogBottom	833
-LastSession	atis_letter	75
+TeamSpeakVccs	Ts3DialogLeft	69
+TeamSpeakVccs	Ts3DialogTop	332
+TeamSpeakVccs	Ts3DialogRight	623
+TeamSpeakVccs	Ts3DialogBottom	908
+LastSession	atis_letter	66
 Settings	SettingsfileSIL	\Settings\Alpha-3.txt
 Settings	SettingsfileSEL	\Settings\Alpha-3.txt
 Settings	SettingsfileDEP	\Settings\Alpha-3.txt
@@ -31,8 +31,8 @@ Settings	aircraft	\NavData\ICAO_Aircraft.txt
 Settings	airways	\NavData\AIRWAY.txt
 Settings	alias	\Settings\alias.txt
 TeamSpeakVccs	Ts3G2GPtt	2686976
-TeamSpeakVccs	TsVccsMiniControlX	1752
-TeamSpeakVccs	TsVccsMiniControlY	634
+TeamSpeakVccs	TsVccsMiniControlX	1805
+TeamSpeakVccs	TsVccsMiniControlY	341
 Plugins	Plugin0	\Plugins\Ground Radar Plugin\GRplugin.dll
 Plugins	Plugin0Display0	Ground Radar display
 Sounds	Sound0	\Sounds\handoff_request.wav
@@ -54,21 +54,31 @@ Sounds	Sound15	\Sounds\new_atis.wav
 Sounds	Sound16	\Sounds\handoff_refused.wav
 Sounds	Sound17	\Sounds\pointout.wav
 Sounds	Sound18	\Sounds\startup.wav
-LastSession	callsign	UHPP_GND
 LastSession	simdatapublish	0
+RecentFiles	Recent7	\ASR\UHPP_APP_16R.asr
+RecentFiles	Recent1	\ASR\UHMM_APP_10.asr
+RecentFiles	Recent2	\ASR\UHMM_GND.asr
+RecentFiles	Recent3	\ASR\UHMM_CTR.asr
+RecentFiles	Recent4	\ASR\UHPP_GND.asr
+RecentFiles	Recent5	\ASR\UHPP_APP_34L.asr
 Plugins	Plugin0Display1	Standard ES radar screen
 Plugins	Plugin1	\Plugins\vTools\vTools.dll
 Plugins	Plugin1Display0	vTools
-RecentFiles	Recent6	\ASR\UHMM_CTR.asr
-RecentFiles	Recent8	\ASR\UHMM_APP_10.asr
-RecentFiles	Recent9	\ASR\UHMM_GND.asr
-Plugins	Plugin2	\Plugins\Top Sky\TopSky.dll
+RecentFiles	Recent6	\ASR\UHMA_GND.asr
+RecentFiles	Recent8	\ASR\UHMP_APP_35.asr
+RecentFiles	Recent9	\ASR\UHMP_APP_17.asr
+RecentFiles	Recent10	\ASR\UHMP_APP_17.asr
+RecentFiles	Recent11	\ASR\UHMM_APP_28.asr
+Plugins	Plugin2	\Plugins\TopSky\TopSky.dll
 Plugins	Plugin2Display0	Standard ES radar screen
 TeamSpeakVccs	Ts3NickName	Your Name
 TeamSpeakVccs	Ts3G2APtt	2686976
-Sounds	OutputDevice	
+LastSession	atis2	Magadan-Approach | Магадан-Подход
+LastSession	atis3	Atis on 127.400
+Sounds	OutputDevice	�������� (Realtek High Definiti
+LastSession	atis4	Chart and info @dalcontrol.ru
 Settings	airportcoords	\NavData\icao.txt
-Settings	SettingsfileFP	\Settings\Alpha-3.txt
+Settings	SettingsfileFP	\Settings\Alpha.txt
 Settings	SettingsfileCONFLICT	\Settings\Alpha-3.txt
 Settings	SettingsfilePILOTING	\Settings\Alpha-3.txt
 Settings	SettingsfileORIGPLANE	\Settings\Alpha-3.txt
@@ -78,3 +88,11 @@ Settings	SettingsfileTAKEOFF	\Settings\Alpha-3.txt
 Settings	SettingsfileADCS	\Settings\Alpha-3.txt
 Settings	SettingsfileTAXIIN	\Settings\Alpha-3.txt
 Settings	SettingsfileSCREEN	\Settings\Alpha-3.txt
+LastSession	scenario	C:\Users\zikee.ALEX-PC\Downloads\UHMM_TWR_10.txt
+TeamSpeakVccs	PlaybackMode	Windows Audio Session
+TeamSpeakVccs	PlaybackDevice	Динамики (Realtek(R) Audio)
+TeamSpeakVccs	CaptureMode	Windows Audio Session
+TeamSpeakVccs	CaptureDevice	Mic in at rear panel (Pink) (Realtek(R) Audio)
+LastSession	atis_airport	UHMM
+Plugins	Plugin1Display1	Ground Radar display
+Plugins	Plugin1Display2	Standard ES radar screen
