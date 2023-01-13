@@ -1,3 +1,16 @@
-UHMM_CTR Магадан Контроль
-UHMM_APP Магадан Подход
-UHMM_TWR Магадан Вышка
+UHMM_CTR Magadan Control
+UHMM_S_CTR Magadan Control - Sector South
+UHMM_N_CTR Magadan Control - Sector North
+UHMM_N1_CTR Magadan Control - Sector North
+UHMM_N2_CTR Magadan Control - Sector North 2
+UHMM_K1_CTR Magadan Control - Sector Kamchatka-1
+UHMM_K2_CTR Magadan Control - Sector Kamchatka-2
+UHMM_O_CTR Magadan Control - Sector Oceanic
+UHMM_APP Magadan Approach
+UHMM_TWR Magadan Tower
+UHPP_APP Petropavlovsk Krug
+UHPP_TWR Petropavlovsk Start
+UHPP_GND Petropavlovsk Ground
+UHMA_APP Anadyr Approach
+UHMA_TWR Anadyr Start
+UHMP_R_APP Pevek Krug
