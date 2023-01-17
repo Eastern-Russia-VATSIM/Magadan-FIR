@@ -190,7 +190,10 @@ STCA_UseCFL=1
 STCA_Floor=2000
 
 System_MetricUnits=0
-System_QFE=0
+System_MetricUnits_Altitude=1
+System_MetricUnits_Distance=1
+System_MetricUnits_Speed=1
+System_QFE=1
 System_TrueColorMode=1
 System_UseReportedGS=0
 System_ASP_IasMach=27500
@@ -201,9 +204,9 @@ System_UseSidStarNoAllocationColor=1
 System_TaxiTime=5
 System_FPASD=0
 
-Track_HistoryDots=5
-Track_PredictionLine=0
-Track_DivergenceSymbol_Size=0
+Track_HistoryDots=10
+Track_PredictionLine=5
+Track_DivergenceSymbol_Size=2
 
 Vector_AHDG_FontSize=13
 Vector_AHDG_Label_Dist=0
