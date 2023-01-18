@@ -250,7 +250,7 @@ Datablock:SCTA CFL used warning leader:65535:4.2:0:3:7
 Controller:normal:65535:3.9:0:0:7
 Controller:breaking:13408767:4.0:0:0:7
 Controller:timeout:16777215:3.5:0:0:7
-Metar:normal:16776960:4.5:0:0:7
+Metar:normal:16776960:4.0:0:0:7
 Metar:modified:13408767:4.5:0:0:7
 Metar:timeout:16777215:4.5:0:0:7
 Other:wait:16777215:3.5:0:0:7
@@ -280,10 +280,10 @@ Other:list header:16777215:3.5:0:0:7
 Other:normal menu item:16777215:3.5:0:0:7
 Other:disabled menu item:8421504:3.5:0:0:7
 Transitions:transition grid:5263440:3.0:0:0:7
-Chat:text:16777215:4.5:0:0:7
-Chat:background:3289650:4.5:0:0:7
-Chat:name normal:16777215:4.5:0:0:7
-Chat:name unread:16776960:4.5:0:0:7
+Chat:text:16777215:4.0:0:0:7
+Chat:background:3289650:4.0:0:0:7
+Chat:name normal:16777215:4.0:0:0:7
+Chat:name unread:16776960:4.0:0:0:7
 Ground Network:exit:16711680:3.5:0:3:7
 Ground Network:taxiway:65280:3.5:0:3:7
 Ground Network:terminal taxiway:255:3.5:0:3:7
@@ -1020,7 +1020,7 @@ END
 SEL
 m_Visible:1
 m_X:7
-m_Y:111
+m_Y:85
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:10
@@ -1046,7 +1046,7 @@ END
 DEP
 m_Visible:1
 m_X:7
-m_Y:143
+m_Y:117
 m_LineNumber:6
 m_Resizable:1
 m_OrderingColumn:-13
