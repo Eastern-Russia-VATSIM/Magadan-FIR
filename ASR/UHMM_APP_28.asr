@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Admin\Desktop\Magadan FIR\Sector\Magadan-East.sct
+SECTORFILE:\Sector\Magadan-East.sct
 SECTORTITLE:Magadan-East.sct
 ARTCC high boundary:UHMM_APP:
 ARTCC low boundary:UHMM_TWR:
@@ -97,5 +97,5 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
-TAGFAMILY:Matias (built in)
+TAGFAMILY:Alpha-3
 WINDOWAREA:59.213891:148.035449:60.655918:153.347851

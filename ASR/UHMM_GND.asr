@@ -1,7 +1,7 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Admin\Desktop\Magadan FIR\Sector\Magadan-East.sct
+SECTORFILE:\Sector\Magadan-East.sct
 SECTORTITLE:Magadan-East.sct
 Airports:UHMM:name
 Airports:UHMM:symbol
@@ -61,7 +61,7 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
-TAGFAMILY:Matias (built in)
+TAGFAMILY:Alpha-3
 WINDOWAREA:59.902163:150.681760:59.924064:150.762443
 PLUGIN:Ground Radar plugin:AirportElevation:574
 PLUGIN:Ground Radar plugin:AirportRadius:17.0

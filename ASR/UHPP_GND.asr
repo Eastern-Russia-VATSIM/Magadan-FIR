@@ -1,7 +1,7 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Admin\Desktop\Magadan FIR\Sector\Magadan-East.sct
+SECTORFILE:\Sector\Magadan-East.sct
 SECTORTITLE:Magadan-East.sct
 ARTCC low boundary:UHPP_TWR:
 Free Text:UHPP\1:freetext
@@ -93,7 +93,7 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
-TAGFAMILY:Matias (built in)
+TAGFAMILY:Alpha-3
 WINDOWAREA:53.151368:158.381611:53.187006:158.512901
 PLUGIN:Ground Radar plugin:AirportElevation:243
 PLUGIN:Ground Radar plugin:AirportRadius:17.0

@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\Admin\Desktop\Magadan FIR\Sector\Magadan-East.sct
+SECTORFILE:\Sector\Magadan-East.sct
 SECTORTITLE:Magadan-East.sct
 Airports:UHMP:name
 Airports:UHMP:symbol
@@ -87,5 +87,5 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
-TAGFAMILY:Matias (built in)
+TAGFAMILY:Alpha-3
 WINDOWAREA:68.972927:167.335073:70.421110:172.670156
