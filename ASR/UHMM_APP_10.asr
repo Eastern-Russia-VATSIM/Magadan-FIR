@@ -1,7 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:\Sector\Magadan-East.sct
+SECTORFILE:C:\Users\zikee.ALEX-PC\Documents\GitHub\Sector-File-Magadan-FIR\Sector\Magadan-East.sct
 SECTORTITLE:Magadan-East.sct
 Airports:UHMM:name
 Airports:UHMM:symbol
@@ -104,4 +104,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:0.00000
 TAGFAMILY:Alpha-3
-WINDOWAREA:59.216520:148.056185:60.658546:153.368587
+WINDOWAREA:59.475526:149.285247:60.412353:152.685184

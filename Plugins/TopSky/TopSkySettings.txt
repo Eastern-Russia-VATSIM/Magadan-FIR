@@ -6,6 +6,7 @@ System_GUI_Scale_GlobalMenu=1.1
 
 //Radar Menu
 System_GUI_Scale_Menus=1
+System_GUI_Font_1=Mariupol Regular
 
 //Route Vector
 System_GUI_Scale_Screen=1

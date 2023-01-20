@@ -1,18 +1,18 @@
 Settings	sector	\Sector\Magadan-East.sct
 LastSession	connecttype	2
-LastSession	facility	5
+LastSession	facility	6
 LastSession	rating	3
 LastSession	server	SweatBox
 LastSession	tovatsim	1
-LastSession	range	150
+LastSession	range	600
 LastSession	proxyserver	localhost
 LastSession	simNavDatapublish	0
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
-TeamSpeakVccs	Ts3DialogLeft	69
-TeamSpeakVccs	Ts3DialogTop	332
-TeamSpeakVccs	Ts3DialogRight	623
-TeamSpeakVccs	Ts3DialogBottom	908
+TeamSpeakVccs	Ts3DialogLeft	1630
+TeamSpeakVccs	Ts3DialogTop	181
+TeamSpeakVccs	Ts3DialogRight	2517
+TeamSpeakVccs	Ts3DialogBottom	757
 LastSession	atis_letter	66
 Settings	SettingsfileSIL	\Settings\Alpha-3.txt
 Settings	SettingsfileSEL	\Settings\Alpha-3.txt
@@ -31,8 +31,8 @@ Settings	aircraft	\NavData\ICAO_Aircraft.txt
 Settings	airways	\NavData\AIRWAY.txt
 Settings	alias	\Settings\alias.txt
 TeamSpeakVccs	Ts3G2GPtt	2686976
-TeamSpeakVccs	TsVccsMiniControlX	1805
-TeamSpeakVccs	TsVccsMiniControlY	341
+TeamSpeakVccs	TsVccsMiniControlX	2061
+TeamSpeakVccs	TsVccsMiniControlY	48
 Plugins	Plugin0	\Plugins\Ground Radar Plugin\GRplugin.dll
 Plugins	Plugin0Display0	Ground Radar display
 Sounds	Sound0	\Sounds\handoff_request.wav
@@ -73,8 +73,8 @@ Plugins	Plugin2	\Plugins\TopSky\TopSky.dll
 Plugins	Plugin2Display0	Standard ES radar screen
 TeamSpeakVccs	Ts3NickName	Your Name
 TeamSpeakVccs	Ts3G2APtt	2686976
-LastSession	atis2	Magadan-Approach | –ú–∞–≥–∞–¥–∞–Ω-–ü–æ–¥—Ö–æ–¥
-LastSession	atis3	Atis on 127.400
+LastSession	atis2	Magadan-Control
+LastSession	atis3	Covering UHPP_CTR
 Sounds	OutputDevice	ƒËÌ‡ÏËÍË (Realtek High Definiti
 LastSession	atis4	Chart and info @dalcontrol.ru
 Settings	airportcoords	\NavData\icao.txt
@@ -96,3 +96,7 @@ TeamSpeakVccs	CaptureDevice	Mic in at rear panel (Pink) (Realtek(R) Audio)
 LastSession	atis_airport	UHMM
 Plugins	Plugin1Display1	Ground Radar display
 Plugins	Plugin1Display2	Standard ES radar screen
+LastSession	callsign	UHMM_CTR
+LastSession	realname	1475694
+LastSession	certificate	1475694
+LastSession	password	y!K4gKnwBZXu3A9
