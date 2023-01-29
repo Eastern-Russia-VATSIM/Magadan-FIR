@@ -16,7 +16,7 @@ System_GUI_Scale_Tracks=1
 //Normale Fenster
 System_GUI_Scale_Windows=1
 
-Setup_COOPANS=1
+Setup_COOPANS=0
 
 Airspace_P_Flag=UHMM
 Airspace_ASSR_Type=0
@@ -205,6 +205,7 @@ System_TaxiTime=5
 System_FPASD=0
 
 Track_HistoryDots=10
+Track_HistoryDots_Max=10
 Track_PredictionLine=5
 Track_DivergenceSymbol_Size=2
 
