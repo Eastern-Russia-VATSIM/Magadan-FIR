@@ -1,19 +1,10 @@
 Settings	sector	\Sector\Magadan-East.sct
-LastSession	connecttype	2
-LastSession	facility	6
-LastSession	rating	4
-LastSession	server	SweatBox
-LastSession	tovatsim	1
-LastSession	range	600
-LastSession	proxyserver	localhost
-LastSession	simNavDatapublish	0
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
 TeamSpeakVccs	Ts3DialogLeft	684
 TeamSpeakVccs	Ts3DialogTop	655
 TeamSpeakVccs	Ts3DialogRight	1586
 TeamSpeakVccs	Ts3DialogBottom	1231
-LastSession	atis_letter	66
 Settings	SettingsfileSIL	\Settings\InboundList.txt
 Settings	SettingsfileSEL	\Settings\ExitList.txt
 Settings	SettingsfileDEP	\Settings\DepartureList.txt
@@ -54,7 +45,6 @@ Sounds	Sound15	\Sounds\new_atis.wav
 Sounds	Sound16	\Sounds\handoff_refused.wav
 Sounds	Sound17	\Sounds\pointout.wav
 Sounds	Sound18	\Sounds\startup.wav
-LastSession	simdatapublish	0
 RecentFiles	Recent7	\ASR\UHMM_CTR.asr
 RecentFiles	Recent1	\ASR\UHMM_K2_CTR.asr
 RecentFiles	Recent2	\ASR\UHMM_N1_CTR.asr
@@ -73,9 +63,6 @@ Plugins	Plugin2	\Plugins\TopSky\TopSky.dll
 Plugins	Plugin2Display0	Standard ES radar screen
 TeamSpeakVccs	Ts3NickName	Your Name
 TeamSpeakVccs	Ts3G2APtt	2686976
-LastSession	atis2	Magadan-Control
-LastSession	atis3	Atis on 126.800
-Sounds	OutputDevice	�������� (Realtek High Definiti
 Settings	airportcoords	\NavData\icao.txt
 Settings	SettingsfileFP	\Settings\FPList.txt
 Settings	SettingsfileCONFLICT	\Settings\ConflictList.txt
@@ -87,11 +74,9 @@ Settings	SettingsfileTAKEOFF	\Settings\TakeoffList.txt
 Settings	SettingsfileADCS	\Settings\ADCSectorList.txt
 Settings	SettingsfileTAXIIN	\Settings\TaxiinList.txt
 Settings	SettingsfileSCREEN	\Settings\Screen.txt
-LastSession	scenario	E:\Distr\vATC\Simulators\UHPP_APP Eazy.txt
 TeamSpeakVccs	PlaybackMode	Windows Audio Session
 TeamSpeakVccs	PlaybackDevice	Динамики (Realtek(R) Audio)
 TeamSpeakVccs	CaptureMode	Windows Audio Session
 TeamSpeakVccs	CaptureDevice	Mic in at rear panel (Pink) (Realtek(R) Audio)
-LastSession	atis_airport	UHMM
 Plugins	Plugin1Display1	Ground Radar display
 Plugins	Plugin1Display2	Standard ES radar screen

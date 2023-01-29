@@ -1,8 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\kopil\YandexDisk-gordiango\Documents\EuroScope\Sectors\Sector-File-Magadan-FIR\Sector\Magadan-East.sct
-SECTORTITLE:Magadan-East.sct
 Airports:HC8S:name
 Airports:HC8S:symbol
 Airports:HC9L:name

@@ -1,8 +1,6 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:\Sector\Magadan-East.sct
-SECTORTITLE:Magadan-East.sct
 Airports:UHMM:name
 Airports:UHMM:symbol
 ARTCC low boundary:UHMM_TWR:

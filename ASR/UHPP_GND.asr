@@ -1,8 +1,6 @@
 DisplayTypeName:Ground Radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:\Sector\Magadan-East.sct
-SECTORTITLE:Magadan-East.sct
 ARTCC low boundary:UHPP_TWR:
 Free Text:UHPP\1:freetext
 Free Text:UHPP\10:freetext

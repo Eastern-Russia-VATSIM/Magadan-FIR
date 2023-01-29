@@ -1,8 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:\Sector\Magadan-East.sct
-SECTORTITLE:Magadan-East.sct
 Airports:UHMM:name
 Airports:UHMM:symbol
 Airports:UHMT:name

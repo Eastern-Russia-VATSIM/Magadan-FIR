@@ -1,8 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:\Sector\Magadan-East.sct
-SECTORTITLE:Magadan-East.sct
 ARTCC boundary:UHMM_K1_CTR:
 ARTCC high boundary:UHMA_APP:
 ARTCC high boundary:UHMM_APP:
