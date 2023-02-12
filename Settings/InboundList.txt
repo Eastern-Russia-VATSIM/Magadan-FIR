@@ -1,7 +1,7 @@
 SIL
 m_Visible:1
-m_X:209
-m_Y:650
+m_X:0
+m_Y:47
 m_LineNumber:0
 m_Resizable:1
 m_OrderingColumn:1
@@ -16,6 +16,6 @@ m_Column:FL:6:1:10001:44:0:1:TopSky plugin:TopSky plugin::3:0.0
 m_Column:DEP:6:1:10007:0:0:1:TopSky plugin:::3:0.0
 m_Column:DEST:6:1:10008:7:1:1:TopSky plugin:::3:0.0
 m_Column:Sector:8:1:26:20:0:1::::1:0.0
-m_Column:RVSM:5:1:202:0:0:1:TopSky plugin:::0:0.0
+m_Column:RVSM:5:1:62:0:0:1::::0:0.0
 m_Column:RMK:10:1:10059:2:0:1:TopSky plugin:TopSky plugin::4:0.0
 END

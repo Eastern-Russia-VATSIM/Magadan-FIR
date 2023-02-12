@@ -147,7 +147,7 @@ HTTP_METAR_Data_Prefix=<raw_text>
 HTTP_METAR_Data_Suffix=</raw_text>
 
 Label_Alt_Digits=3
-Label_DAPs=1
+Label_DAPs=0
 Label_Rev_Highlight_Delta_ETN=0
 Label_SI_ShowFreq=1
 
@@ -157,7 +157,7 @@ Malrt_Misap=MISAP
 Malrt_Inbound_EST=INB
 Malrt_Irregular=IRR
 
-Menu_MaxListItems=15
+Menu_MaxListItems=20
 
 MSAW=0
 MSAW_UseCFL=1
@@ -217,10 +217,9 @@ Vector_QDM_FontSize=13
 Vector_QDM_MaxNumber=6
 Vector_QDM_Airports=1
 
-Window_QNHTL=1
-Window_NOTAM=1
-Window_QNHTL=3,2350,900
-Window_NOTAM=3,2050,1100
+Window_QNHTL=3,1280,900
+Window_MsgIn=3,900,50
+Window_MsgOut=3,1300,50
 
 WXR_Brightness=100
 WXR_Gain=100
